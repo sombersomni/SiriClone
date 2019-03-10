@@ -11,10 +11,10 @@ You can downlaod here [http://jampal.sourceforge.net/ptts.html](https://www.goog
 
 You will also need to do a pip install for the following modules
 
-..* speechrecognition
-..* pyaudio
-..* selenium
-..* beautifulsoup4
+* speechrecognition
+* pyaudio
+* selenium
+* beautifulsoup4
 
 ### Commands
 ###### To Exit
